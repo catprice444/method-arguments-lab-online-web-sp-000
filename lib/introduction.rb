@@ -7,6 +7,3 @@ def introduction_with_language(name,language)
 end
 
 
-expected block to output "Hi, my name is Dan and I am learning to program in Ember.js.\n" to stdout,
-but output "Hi, my name is Dan and I am\n
- learning to program in Ember.js.\n"
